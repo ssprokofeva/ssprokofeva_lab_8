@@ -33,16 +33,16 @@ namespace ssprokofeva_lab_8
         {
             return new List<Person>
         {
-            new Person("Иван Иванов"),
-            new Person("Петр Петров"),
-            new Person("Сергей Сергеев"),
-            new Person("Андрей Андреев"),
-            new Person("Алексей Алексеев"),
-            new Person("Дмитрий Дмитриев"),
-            new Person("Николай Николаев"),
-            new Person("Михаил Михайлов"),
-            new Person("Владимир Владимирович"),
-            new Person("Евгений Евгеньевич")
+            new Person("Анна"),
+            new Person("Карина"),
+            new Person("Дарья"),
+            new Person("Ангелина"),
+            new Person("Павел"),
+            new Person("Кирилл"),
+            new Person("Игорь"),
+            new Person("Арина"),
+            new Person("Кира"),
+            new Person("Ксения")
         };
         }
 
